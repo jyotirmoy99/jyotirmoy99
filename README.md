@@ -8,7 +8,7 @@ I'm a Frontend Developer with a strong eye for design systems, UX, and performan
 
 ### 🎨 Frontend (Primary Focus)
 - **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React.js, Next.js, Redux Toolkit, React Query, React Hook Form, Material-UI (MUI), Tailwind CSS
+- **Frameworks & Libraries:** React.js, Next.js, Redux Toolkit, React Query, React Hook Form, Formik, Material-UI (MUI), Tailwind CSS
 - **State Management:** Redux, React Context, React Query
 - **Tools & Best Practices:** Vite, Webpack, ESLint, Prettier, Atomic Design, Responsive Design
 - **UI/UX Design Collaboration:** Figma, Adobe XD
