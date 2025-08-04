@@ -18,7 +18,7 @@ I'm a Frontend Developer with a strong eye for design systems, UX, and performan
 ### ⚙️ Backend (Comfortable Working With)
 - **Languages:** Node.js, TypeScript, Python
 - **Frameworks:** Express.js, FastAPI
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Databases:** MongoDB, PostgreSQL
 - **ORMs & ODMs:** Prisma, Mongoose
 - **Auth & APIs:** JWT, OAuth2, Firebase Auth, REST APIs
 - **API Tools:** Swagger, Postman
