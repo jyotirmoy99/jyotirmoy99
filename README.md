@@ -4,10 +4,10 @@
 
 I design and build scalable, production-grade applications with a strong focus on **architecture, performance, design systems, and user experience**.
 
-- 🧩 3+ years building scalable React & Next.js applications  
+- 🧩 4+ years building scalable React & Next.js applications  
 - 🏗 Led frontend architecture across multiple production systems  
-- 🤖 Building AI-powered SaaS systems with multi-agent orchestration & real-time communication  
-- ⚡ System-thinking mindset — from UI and APIs to databases and cloud infrastructure  
+- 🤖 Engineering AI-powered SaaS systems with multi-agent orchestration & real-time communication  
+- ⚡ Strong systems-thinking mindset — from UI and APIs to databases and cloud infrastructure  
 
 I build systems end-to-end — from intuitive user interfaces to backend services, authentication layers, real-time streaming pipelines, and cloud-native deployments.
 
